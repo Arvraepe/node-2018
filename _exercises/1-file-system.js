@@ -28,3 +28,9 @@
     5. Create a function that returns a random name from the names file.
 
  */
+
+/*
+
+    6. Get an array of all promo codes in the file promocodes.csv
+
+ */
